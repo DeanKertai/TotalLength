@@ -59,41 +59,5 @@ namespace TotalLength {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to MyCommand.
-        /// </summary>
-        internal static string MyCommandLocal {
-            get {
-                return ResourceManager.GetString("MyCommandLocal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to MyLispFunction.
-        /// </summary>
-        internal static string MyLispFunctionLocal {
-            get {
-                return ResourceManager.GetString("MyLispFunctionLocal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to MyPickFirst.
-        /// </summary>
-        internal static string MyPickFirstLocal {
-            get {
-                return ResourceManager.GetString("MyPickFirstLocal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to MySessionCmd.
-        /// </summary>
-        internal static string MySessionCmdLocal {
-            get {
-                return ResourceManager.GetString("MySessionCmdLocal", resourceCulture);
-            }
-        }
     }
 }
